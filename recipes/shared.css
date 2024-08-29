@@ -1,0 +1,17 @@
+body{
+    background-color: #AAABB8;
+}
+
+h1{
+    font-size:32px;
+    font-family:Helvetica, sans-serif;
+    color:#6E576B;
+}
+
+h2,h3{
+    color: #6E576B;
+}
+
+p,ul,li{
+    color:#1f5490
+}
