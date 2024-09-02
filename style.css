@@ -1,3 +1,9 @@
+*{
+    box-sizing: border-box;
+    border: 0px;
+
+}
+
 body{
     background-color: #D1E8E2;
 }
@@ -7,9 +13,20 @@ ul,a{
     font-family:Nerko One,cursive,sans-serif ;
 }
 
+.title-box{
+    width: 200px;
+    margin: 16px auto;
+    
+}
+
 h1{
     color: #19747E;
     font-family:Roboto,sans-serif;
     font-weight: 700;
     font-stretch:condensed;
+}
+
+ .ul-box {
+    width: 200px;
+    margin: 16px auto;
 }
