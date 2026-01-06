@@ -1,1 +1,1 @@
-# odin-recipes
+A odin project recipes project. Here I will be demonstrating HTML and CSS skills.
