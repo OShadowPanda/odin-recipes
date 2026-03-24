@@ -1,0 +1,17 @@
+html {
+    box-sizing: border-box;
+    background-color:lightslategray;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+li {
+    color: hsl(195, 53%, 79%);
+    font-family: "Courier New", monospace;
+}
+
+a {
+    color:aqua;
+}

@@ -1,0 +1,31 @@
+html {
+    box-sizing: border-box;
+    background-color:#778899;
+    border: 0;
+    margin: 0;
+}
+
+h1,h2,h3 {
+    color: hsl(160, 100%, 75%);
+}
+
+p{
+    color: #87cefa;
+}
+
+img {
+    width: 510px;
+    height: auto;
+}
+
+li::marker {
+    color: hsl(195, 53%, 79%);
+}
+
+li {
+    color: hwb(214 69% 13%);
+}
+
+a {
+    color:aqua;
+}
